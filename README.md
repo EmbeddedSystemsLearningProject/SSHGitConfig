@@ -1,6 +1,6 @@
 # SSHGitConfig
 
-How to set ssh with github wot avoid password usage:
+How to set ssh with github to avoid password usage:
 
 First execute the next commands on your terminal and use the e-mail linked to your GitHub account
 
